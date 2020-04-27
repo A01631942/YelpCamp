@@ -1,0 +1,4 @@
+node_modules
+seeds.js
+variables.env
+.DS_Store
